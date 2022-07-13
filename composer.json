@@ -1,0 +1,24 @@
+{
+    "name": "wenkang124/has-slug",
+    "autoload": {
+        "psr-4": {
+            "Wenkang124\\HasSlug\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wenkang124",
+            "email": "wenkang@etctech.com.my"
+        }
+    ],
+    "require": {
+        
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Wenkang124\\HasSlug\\ServiceProvider"
+            ]
+        }
+    }
+}
